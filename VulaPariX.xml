@@ -1,0 +1,1800 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:NumberFormat ss:Format="0" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:NumberFormat ss:Format="#,##0.00" />
+  </Style>
+  <Style ss:ID="S24">
+   <ss:Alignment ss:Horizontal="Right" ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S25">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0563C1" ss:FontName="Calibri" ss:Size="11" ss:Underline="Single" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sayfa1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="40" ss:ExpandedColumnCount="22">
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">AnaUrunKodu</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Barkod</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">UrunKodu</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Model ve Renk</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Baslik</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Miktar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kategori1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kategori2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kategori3</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Renk (VaryantAdı1)</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">ParaBirimi</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">Fiyat</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Aciklama</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Resim1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Resim2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Resim3</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Resim4</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Resim5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Marka</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kdv</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Desi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10019700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10019700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beliz Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo Beliz Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">330</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1cdnixYRfx3XePxYY6zp3JUcmYQO-hOa2/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1cdnixYRfx3XePxYY6zp3JUcmYQO-hOa2/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10019900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10019900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beliz Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah Beliz Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">330</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1sYJIZooaWb1PRm7lL8rvVc0bzdqa5ctU/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1sYJIZooaWb1PRm7lL8rvVc0bzdqa5ctU/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10019500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10019500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beliz Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem Beliz Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">330</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1iqLKnhclxuzl50LmatMAZgkuIcle7-gH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1iqLKnhclxuzl50LmatMAZgkuIcle7-gH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10019600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10019600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beliz Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi Beliz Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">330</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16vUr1QNE5YAeFURMWykRiv4sOnWAwnnE/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16vUr1QNE5YAeFURMWykRiv4sOnWAwnnE/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1QQ0WXngB1IRBf3VmX3KrrMyVqIBM5RXX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1x2pLPvLlzOWJq1kuiCtM3PI9wz1VAqVc/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10029700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10029700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Marta Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo Marta Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1-3CBy0ziWVl1BfgpFNoygpxrWrQJNZFQ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1-3CBy0ziWVl1BfgpFNoygpxrWrQJNZFQ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10029900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10029900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Marta Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah Marta Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1SIoZr7ZPC67lEwQJ0FVdJunAlIY6vJVt/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1SIoZr7ZPC67lEwQJ0FVdJunAlIY6vJVt/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10039700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10039700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/15pELwFy__Qsfflr6Nm7SEjwPrN2L5usk/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/15pELwFy__Qsfflr6Nm7SEjwPrN2L5usk/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/10hl0Y4L6294yeu9_aCZeGgCgoV9cKQkB/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/10hl0Y4L6294yeu9_aCZeGgCgoV9cKQkB/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10039900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10039900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1vIRcJEKOVpfSpADDVqaMinV0VF-9cHsW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1vIRcJEKOVpfSpADDVqaMinV0VF-9cHsW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1le2x2iIoHYXnUi_bsTOidf1ifNnoAzQ2/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1le2x2iIoHYXnUi_bsTOidf1ifNnoAzQ2/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10039500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10039500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/18jU_LNw5QAGerFM9dw86nbxaihBhTZHA/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/18jU_LNw5QAGerFM9dw86nbxaihBhTZHA/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16llbgnL2ix3HfdifjUXJJgrR_SxiJYog/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16llbgnL2ix3HfdifjUXJJgrR_SxiJYog/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10039600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10039600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/15pELwFy__Qsfflr6Nm7SEjwPrN2L5usk/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/15pELwFy__Qsfflr6Nm7SEjwPrN2L5usk/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1mh0h7kWXrdzg7_T16w38c4wtxBNlVyhr/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1mh0h7kWXrdzg7_T16w38c4wtxBNlVyhr/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10039400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10039400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bej Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bej</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14Rmeeg2cmV7LIMQsGffGUggdDFE_sW5w/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14Rmeeg2cmV7LIMQsGffGUggdDFE_sW5w/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pIGu6pulDYFzoxo5wqFt-fTD_WHowzop/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pIGu6pulDYFzoxo5wqFt-fTD_WHowzop/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10049900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10049900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kontes Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah Kontes Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1nOq0fV4u8m-_E8Y4yYVdK7WewSDaGQCk/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1nOq0fV4u8m-_E8Y4yYVdK7WewSDaGQCk/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1AHvT745rD91NmnOZ0KO6SBtyqp-52J9X/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1AHvT745rD91NmnOZ0KO6SBtyqp-52J9X/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1cdNFQcdvCZkaUeYgdf0cEMx9F55JkFEp/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1cdNFQcdvCZkaUeYgdf0cEMx9F55JkFEp/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1wTAu9pp92_kUw9xPj6s_1126ttN6QGeH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1wTAu9pp92_kUw9xPj6s_1126ttN6QGeH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10049700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10049700</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kontes Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo Kontes Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bordo</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1Ii_AGDUpVIQ_Qya5Czd3WoAMmiZqpoV7/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1Ii_AGDUpVIQ_Qya5Czd3WoAMmiZqpoV7/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1_fjCqTAU4G_SU7mpwOWDCs0XQ944By1U/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1_fjCqTAU4G_SU7mpwOWDCs0XQ944By1U/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1cdNFQcdvCZkaUeYgdf0cEMx9F55JkFEp/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1cdNFQcdvCZkaUeYgdf0cEMx9F55JkFEp/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1wTAu9pp92_kUw9xPj6s_1126ttN6QGeH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1wTAu9pp92_kUw9xPj6s_1126ttN6QGeH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="15">
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10049600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" ss:Formula="=&quot;VLPR&quot;&amp;RC[-1]"><Data ss:Type="String">VLPR10049600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kontes Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi Kontes Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1F2FpVTDoFRSVHeswhhF0PL5fk7eWQPXr/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1F2FpVTDoFRSVHeswhhF0PL5fk7eWQPXr/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1SvwfIXMkzeE6pMxvUieQw5d9vY9HfK-5/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1SvwfIXMkzeE6pMxvUieQw5d9vY9HfK-5/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1cdNFQcdvCZkaUeYgdf0cEMx9F55JkFEp/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1cdNFQcdvCZkaUeYgdf0cEMx9F55JkFEp/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1wTAu9pp92_kUw9xPj6s_1126ttN6QGeH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1wTAu9pp92_kUw9xPj6s_1126ttN6QGeH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10029500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10029500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Marta Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem Marta Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1nFd7xHqYDu7XQdlxxocwcWHLlqen_GtX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1nFd7xHqYDu7XQdlxxocwcWHLlqen_GtX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1o05yevmaAqo8FFuoMSV5G6J5m1TqXlAZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1o05yevmaAqo8FFuoMSV5G6J5m1TqXlAZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10029400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10029400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Marta Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon Marta Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1nFd7xHqYDu7XQdlxxocwcWHLlqen_GtX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1nFd7xHqYDu7XQdlxxocwcWHLlqen_GtX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1o05yevmaAqo8FFuoMSV5G6J5m1TqXlAZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1o05yevmaAqo8FFuoMSV5G6J5m1TqXlAZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10029800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10029800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Marta Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz Marta Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1nFd7xHqYDu7XQdlxxocwcWHLlqen_GtX/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1nFd7xHqYDu7XQdlxxocwcWHLlqen_GtX/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1o05yevmaAqo8FFuoMSV5G6J5m1TqXlAZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1o05yevmaAqo8FFuoMSV5G6J5m1TqXlAZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1N0mBhjhkLoPp1O_Thh_jS5eb2v3SlMHd/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10038900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10038900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Mint</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Mint Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Mint</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16i7AvpamLOFt-H7dCv19lbgM4PkpgzRW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16i7AvpamLOFt-H7dCv19lbgM4PkpgzRW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/18FQC9okkX_WWzKkVeRexckdEbitoAzVT/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/18FQC9okkX_WWzKkVeRexckdEbitoAzVT/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10039300</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10039300</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Taba</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Taba Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Taba</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16i7AvpamLOFt-H7dCv19lbgM4PkpgzRW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16i7AvpamLOFt-H7dCv19lbgM4PkpgzRW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/18FQC9okkX_WWzKkVeRexckdEbitoAzVT/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/18FQC9okkX_WWzKkVeRexckdEbitoAzVT/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10039800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10039800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Totti Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz Totti Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">285</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16i7AvpamLOFt-H7dCv19lbgM4PkpgzRW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16i7AvpamLOFt-H7dCv19lbgM4PkpgzRW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/18FQC9okkX_WWzKkVeRexckdEbitoAzVT/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/18FQC9okkX_WWzKkVeRexckdEbitoAzVT/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1pUpPxWVY5E7FVrWJzXT78VT9odM9Ytz3/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10059800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10059800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Deren Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz Deren Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">660</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1fCTWOUJf4ho9gNlZ1z9v1WoXcmx9VkoS/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1fCTWOUJf4ho9gNlZ1z9v1WoXcmx9VkoS/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14uV-UJp0JxSKxpJ6eRQTHCWNcMkLXsHZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14uV-UJp0JxSKxpJ6eRQTHCWNcMkLXsHZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10059000</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10059000</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Deren Mavi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Mavi Deren Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Mavi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">660</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1JzJMvzI1ilOm0g3aljJlmsXDmee9a1bz/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1JzJMvzI1ilOm0g3aljJlmsXDmee9a1bz/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1hA7gxQjb4-CGf39QuzR3H9MlAdK8uRMx/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1hA7gxQjb4-CGf39QuzR3H9MlAdK8uRMx/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1I-JrTzPMwrYCwTLXNIBPlj_oswueBx7E/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1I-JrTzPMwrYCwTLXNIBPlj_oswueBx7E/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14uV-UJp0JxSKxpJ6eRQTHCWNcMkLXsHZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14uV-UJp0JxSKxpJ6eRQTHCWNcMkLXsHZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10059500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10059500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Deren Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem Deren Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">660</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/17LmbANPkB_pW2Yjk3aGA31ezH-39z0Dq/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/17LmbANPkB_pW2Yjk3aGA31ezH-39z0Dq/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14uV-UJp0JxSKxpJ6eRQTHCWNcMkLXsHZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14uV-UJp0JxSKxpJ6eRQTHCWNcMkLXsHZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10069500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10069500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Ninda Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem Ninda Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">720</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1j-SoyeafQQ3GLbbQt6pTG7aUc81xjCEw/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1j-SoyeafQQ3GLbbQt6pTG7aUc81xjCEw/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1hoTcv5LH5gQvN-mDj33UMjNgp0YlEamv/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1hoTcv5LH5gQvN-mDj33UMjNgp0YlEamv/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1zTAkRAkpI7gCTlFE2644U4FQ6Pchb4_u/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1zTAkRAkpI7gCTlFE2644U4FQ6Pchb4_u/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1POkNLM2fJD4wP0zt6O1e4H6qyrtxYceq/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1POkNLM2fJD4wP0zt6O1e4H6qyrtxYceq/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1zN9HKRNrhfscwmkZ6-sMHHUar1Diq4gZ/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1zN9HKRNrhfscwmkZ6-sMHHUar1Diq4gZ/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10079800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10079800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">YSL Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz YSL Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Beyaz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">555</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1SDgrlpfL49TadaOdn7hRgxefmgWEYWMH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1SDgrlpfL49TadaOdn7hRgxefmgWEYWMH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1UOVZPghoujhwM6O28v1DpAjyZvfPVV_4/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1UOVZPghoujhwM6O28v1DpAjyZvfPVV_4/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1xBxptmuDNgL774Mx0Na8VdpNYafivlIn/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1xBxptmuDNgL774Mx0Na8VdpNYafivlIn/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10079400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10079400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">YSL Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon YSL Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">555</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1yulH8u3gKhBC5aisyP97k8Bi_tQbPAAz/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1yulH8u3gKhBC5aisyP97k8Bi_tQbPAAz/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1WgzNf8RtKM5v7fV87ilQggzwHTAbx584/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1WgzNf8RtKM5v7fV87ilQggzwHTAbx584/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16NQ8biK1RJxMlCERn9RNeFNXo0HcEBD9/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16NQ8biK1RJxMlCERn9RNeFNXo0HcEBD9/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="28">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10079300</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10079300</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">YSL Taba</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Taba YSL Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Taba</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">555</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1_tPKATev4kiCTVXhOdwBCemZEoos2Rwv/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1_tPKATev4kiCTVXhOdwBCemZEoos2Rwv/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1gz1ci6GaoqRaMF1cwNOzJpLOzShoRLLj/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1gz1ci6GaoqRaMF1cwNOzJpLOzShoRLLj/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1_tPKATev4kiCTVXhOdwBCemZEoos2Rwv/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1_tPKATev4kiCTVXhOdwBCemZEoos2Rwv/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">"</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10079500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10079500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">YSL Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem YSL Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">555</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1xo-ZbMPkjxuXXFGPZR8eiXZFA_NHIwAf/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1xo-ZbMPkjxuXXFGPZR8eiXZFA_NHIwAf/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1177KKeeC9mGKSjAbdb5CL2oFtD9Wh7Y_/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1177KKeeC9mGKSjAbdb5CL2oFtD9Wh7Y_/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14cADKA03Lh_I-a7HB7VNNFqpOiCexcsI/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14cADKA03Lh_I-a7HB7VNNFqpOiCexcsI/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="30">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10079600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10079600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">YSL Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi YSL Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">555</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14pSinnnAyyecr3hJljr51H5kY4UWEcyB/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14pSinnnAyyecr3hJljr51H5kY4UWEcyB/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1eyZ00o_h9NjzG1qos-mNTUd5k2Sd7FZB/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1eyZ00o_h9NjzG1qos-mNTUd5k2Sd7FZB/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/14pSinnnAyyecr3hJljr51H5kY4UWEcyB/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/14pSinnnAyyecr3hJljr51H5kY4UWEcyB/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1kl5Yps10GAZN2JWuW78y9PB1DxWU4JLA/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1L9kzgl30o2jffBfPm5By_t2Z7hXCbNOC/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="31">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10089500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10089500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">İnci Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem İnci Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qUevMv_JWV8EL_UrKoCTR90oWA7dw7PE/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qUevMv_JWV8EL_UrKoCTR90oWA7dw7PE/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qUevMv_JWV8EL_UrKoCTR90oWA7dw7PE/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qUevMv_JWV8EL_UrKoCTR90oWA7dw7PE/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1oxVczREuD1QngqfoSZ7eZhFCfKt__hkW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1oxVczREuD1QngqfoSZ7eZhFCfKt__hkW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1DVMAvq1gSO25NDRGlGJrDwL__dkWugav/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1DVMAvq1gSO25NDRGlGJrDwL__dkWugav/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1G0A-Uqofzi_bRX4YZ6eWi5eOImD9C-YR/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1G0A-Uqofzi_bRX4YZ6eWi5eOImD9C-YR/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="32">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10089100</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10089100</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">İnci Leopar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Leopar İnci Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Leopar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">300</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1gDUvHkJx0P41COrpT1lvb3ODOGkmt4ra/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1gDUvHkJx0P41COrpT1lvb3ODOGkmt4ra/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qUevMv_JWV8EL_UrKoCTR90oWA7dw7PE/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qUevMv_JWV8EL_UrKoCTR90oWA7dw7PE/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1oxVczREuD1QngqfoSZ7eZhFCfKt__hkW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1oxVczREuD1QngqfoSZ7eZhFCfKt__hkW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1DVMAvq1gSO25NDRGlGJrDwL__dkWugav/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1DVMAvq1gSO25NDRGlGJrDwL__dkWugav/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1G0A-Uqofzi_bRX4YZ6eWi5eOImD9C-YR/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1G0A-Uqofzi_bRX4YZ6eWi5eOImD9C-YR/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="33">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10099400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10099400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Aura Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon Aura Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">450</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1kBAO9Mz12a_nxwxLUNGGMkGSaNEnL5Ah/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1kBAO9Mz12a_nxwxLUNGGMkGSaNEnL5Ah/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1ESJhX_VrbkPhAo5cvWZsAW8E2NFIBwxT/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1ESJhX_VrbkPhAo5cvWZsAW8E2NFIBwxT/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1sGD-CJAUqPhTkgoSXM-SyGJ-AIZk0PqR/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1sGD-CJAUqPhTkgoSXM-SyGJ-AIZk0PqR/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/16V0m_xhV_5Jb5lDb40L1woG7RRKcI3LU/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/16V0m_xhV_5Jb5lDb40L1woG7RRKcI3LU/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1iqEedZGVdFGgf3VmsIll87tMHWDK1-Xe/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1iqEedZGVdFGgf3VmsIll87tMHWDK1-Xe/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="34">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10108800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10108800</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Nora Pudra</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pudra Nora Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pudra</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">570</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1s7DXGfI-HgvuFSE4LWNj9D2QraoWrLm4/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1s7DXGfI-HgvuFSE4LWNj9D2QraoWrLm4/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/17i3ozzX8l_xYcBdw6WWerDelEL0PnNKS/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/17i3ozzX8l_xYcBdw6WWerDelEL0PnNKS/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1WJXB_-Whr9cNc-olCl73jD2TuTLbgYIY/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1WJXB_-Whr9cNc-olCl73jD2TuTLbgYIY/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1o-Zayx3mJbGaT4DFPcrcWFqMjx9DLxRH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1o-Zayx3mJbGaT4DFPcrcWFqMjx9DLxRH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1QAi-whNIgAetZ2oba_R8LdhQo-0Tz_Zi/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1QAi-whNIgAetZ2oba_R8LdhQo-0Tz_Zi/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="35">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10109400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10109400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Nora Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon Nora Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">570</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1rPk8Tnr2EfMDnv5fJwo5_56Bypl-lUaR/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1rPk8Tnr2EfMDnv5fJwo5_56Bypl-lUaR/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1rPk8Tnr2EfMDnv5fJwo5_56Bypl-lUaR/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1rPk8Tnr2EfMDnv5fJwo5_56Bypl-lUaR/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1MSNJiF18oSVG4KAwG8I44VvRLC_t1BTx/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1MSNJiF18oSVG4KAwG8I44VvRLC_t1BTx/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1o-Zayx3mJbGaT4DFPcrcWFqMjx9DLxRH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1o-Zayx3mJbGaT4DFPcrcWFqMjx9DLxRH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1QAi-whNIgAetZ2oba_R8LdhQo-0Tz_Zi/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1QAi-whNIgAetZ2oba_R8LdhQo-0Tz_Zi/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="36">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10119500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10119500</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pap Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem Pap Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Krem</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">630</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1t0axI2KTV3t6JS67aj_14s2wRzEjPg4Q/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1t0axI2KTV3t6JS67aj_14s2wRzEjPg4Q/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1Z8zt3Gs_V2iBU0XwY85OcXc9Xqnx2Kgn/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1Z8zt3Gs_V2iBU0XwY85OcXc9Xqnx2Kgn/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1d_XbTxDy_9vyYhgfsjP0J6yJiI9lqaZS/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1d_XbTxDy_9vyYhgfsjP0J6yJiI9lqaZS/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qC1xQ6QeQA6LRZGjf0mxMIIliomR_lPN/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qC1xQ6QeQA6LRZGjf0mxMIIliomR_lPN/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/drive/u/1/folders/1vsOYaWGxbAgtzLThDsyTbssziRkZ9QSz"><Data ss:Type="String">https://drive.google.com/drive/u/1/folders/1vsOYaWGxbAgtzLThDsyTbssziRkZ9QSz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="37">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10119400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10119400</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pap Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon Pap Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Vizon</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">630</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/19UZJe2Re3pHfhPhJlJi76-1eC_ATpoGP/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/19UZJe2Re3pHfhPhJlJi76-1eC_ATpoGP/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1VJgJAKk4U35wgaUYP2awPSpeImTcu8Qt/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1VJgJAKk4U35wgaUYP2awPSpeImTcu8Qt/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1yi4MMskWmbeUbI5SdVKptOjjm34rT0SE/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1yi4MMskWmbeUbI5SdVKptOjjm34rT0SE/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qC1xQ6QeQA6LRZGjf0mxMIIliomR_lPN/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qC1xQ6QeQA6LRZGjf0mxMIIliomR_lPN/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/drive/u/1/folders/1vsOYaWGxbAgtzLThDsyTbssziRkZ9QSz"><Data ss:Type="String">https://drive.google.com/drive/u/1/folders/1vsOYaWGxbAgtzLThDsyTbssziRkZ9QSz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="38">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10119600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10119600</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pap Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi Pap Model Kadın El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Çanta</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">El ve Omuz Çantası</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kahverengi</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">630</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1-SFMlerwfDRO3Ov83KXRp4cTCdVP4ai4/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1-SFMlerwfDRO3Ov83KXRp4cTCdVP4ai4/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1TeaKWp5UGxJiwaPDP9O6K3M_F_FygVEH/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1TeaKWp5UGxJiwaPDP9O6K3M_F_FygVEH/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1swrz8xs0geYJklI51okLYX5AIUqSXm8N/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1swrz8xs0geYJklI51okLYX5AIUqSXm8N/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qC1xQ6QeQA6LRZGjf0mxMIIliomR_lPN/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qC1xQ6QeQA6LRZGjf0mxMIIliomR_lPN/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/drive/u/1/folders/1vsOYaWGxbAgtzLThDsyTbssziRkZ9QSz"><Data ss:Type="String">https://drive.google.com/drive/u/1/folders/1vsOYaWGxbAgtzLThDsyTbssziRkZ9QSz</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="39">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10129200</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10129200</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kartlık Gümüş</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Gümüş Kartlık</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Cüzdan</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kartlık</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Gümüş</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">120</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1Vhhm1JPm92zst9QwOY2hAmM3eh1UkuCS/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1Vhhm1JPm92zst9QwOY2hAmM3eh1UkuCS/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1m0i9Op7UKmryLyuKFxU5wjpXsHd-SW6a/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1m0i9Op7UKmryLyuKFxU5wjpXsHd-SW6a/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1fTA_ZrK9SgxvaaSHpVVLnp3q90ZEzLNw/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1fTA_ZrK9SgxvaaSHpVVLnp3q90ZEzLNw/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1v7sl4zcuoMiR9qUaTDTn3liR2o7OYj3l/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1v7sl4zcuoMiR9qUaTDTn3liR2o7OYj3l/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+   <Row ss:Index="40">
+    <Cell ss:StyleID="S24"><Data ss:Type="String">10129900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">VLPR10129900</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kartlık Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah Kartlık</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kadın Aksesuar</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Cüzdan</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Kartlık</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Siyah</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TL</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">120</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">- Zarif model ve renkleriyle her kıyafetinize şıklık katacak. - Suni deri materyali ile dayanıklılığı ve estetiği bir arada sunar. - Düz deseni sayesinde zamansız bir görünüm sağlar, her ortama uyum sağlar. - Standart beden ölçüleriyle rahat kullanım imkanı sunar. - Tüm yaş gruplarına hitap eden tasarımıyla geniş bir kullanıcı kitlesine sahiptir. - Casual ve günlük kullanım için idealdir, konforlu ve şık bir aksesuar seçeneği sunar. - İmitasyon deri kalitesiyle hem hayvan dostu hem de uzun ömürlü bir kullanım vaat eder. - Temiz bir bezle kolayca silinebilir, bakımı pratiktir. - Tüm sezonlarda rahatlıkla kullanabileceğiniz çok yönlü bir aksesuardır. - Türkiye'de üretilmiştir, yerel üretim desteklenir. - VulaPari markasının kalite ve güvenilirliğini temsil eder.</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1vuq6lIOmi5D2K0p0AE_Ppd60J5B3E3a6/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1vuq6lIOmi5D2K0p0AE_Ppd60J5B3E3a6/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1RVG5cxHmbNIL11SkfHpdPYQJZJyVNfTn/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1RVG5cxHmbNIL11SkfHpdPYQJZJyVNfTn/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1qvalhnlfL6pMWAdXJfvb15Pi1AstCxvW/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1qvalhnlfL6pMWAdXJfvb15Pi1AstCxvW/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1o8GZWue7ZZoQsmlZFi-UalNxs3QTngll/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1o8GZWue7ZZoQsmlZFi-UalNxs3QTngll/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S25" ss:HRef="https://drive.google.com/file/d/1v7sl4zcuoMiR9qUaTDTn3liR2o7OYj3l/view?usp=drive_link"><Data ss:Type="String">https://drive.google.com/file/d/1v7sl4zcuoMiR9qUaTDTn3liR2o7OYj3l/view?usp=drive_link</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">VulaPari</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21" />
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
